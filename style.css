@@ -36,9 +36,9 @@ p, li{
 }
 
 img.responsive {
-  max-width: 100%; /* L'image peut aller jusqu'à 100% de la largeur de son conteneur */
-  height: auto; /* La hauteur s'ajuste automatiquement pour maintenir les proportions de l'image */
-  display: block; /* Assure que l'image est affichée en bloc, ce qui peut aider avec le centrage et éviter certains problèmes d'affichage */
+  max-width: 100%; 
+  height: auto; 
+  display: block; 
 }
 
 .card-pink{
